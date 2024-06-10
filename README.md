@@ -4,3 +4,4 @@ Basic MVP to test OCR with streamlit for rapid prototyping. Accesses your laptop
 
 OCR engine: EasyOCR
 
+Try it at https://nsoccol-ocr.streamlit.app/
