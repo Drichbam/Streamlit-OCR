@@ -2,7 +2,6 @@ import streamlit as st
 import cv2
 import numpy as np
 from PIL import Image
-#import pytesseract
 import easyocr
 
 # Configure the path to the Tesseract executable
