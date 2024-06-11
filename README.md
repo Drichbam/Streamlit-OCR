@@ -1,6 +1,7 @@
-## Streamlit OCR
+## Streamlit OCR for images
 
-Basic MVP to test OCR with streamlit for rapid prototyping. Accesses your laptop camera to take a photo and displays the recognized text.
+Basic MVP to get a grasp on OCR, streamlit (and Docker) for rapid prototyping. 
+Take a picture from your laptop or upload an image file, the app will return text.
 
 OCR engine: EasyOCR
 

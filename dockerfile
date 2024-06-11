@@ -1,5 +1,5 @@
 # 1. Select base image from which we build the container
-FROM python:3.11.3-slim-buster
+FROM python:3.12-slim-bookworm
 
 # 2. Set environment variables both at build and at run time.
 # In this case, we make sure Python output is visible in Docker logs.
